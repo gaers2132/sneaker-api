@@ -1,6 +1,11 @@
 {
     "brands": {
-      "nike":[]
+      "nike":[
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
     "profile": {
       "name": "green_shadows"
     }
