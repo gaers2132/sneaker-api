@@ -1,12 +1,11 @@
 {
-    "brands": {
-      "nike":[
+  "posts": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-    "profile": {
-      "name": "green_shadows"
-    }
+  "profile": {
+    "name": "typicode"
   }
+}
